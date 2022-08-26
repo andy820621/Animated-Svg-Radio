@@ -1,0 +1,14 @@
+html,
+body {
+	height: 100%;
+	margin: 0;
+	display: grid;
+	place-items: center;
+}
+body {
+	background-color: rgb(155, 212, 187);
+}
+svg {
+	width: 81vw;
+	height: 100vh;
+}
