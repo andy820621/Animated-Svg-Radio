@@ -9,6 +9,6 @@ body {
 	background-color: rgb(155, 212, 187);
 }
 svg {
-	width: 81vw;
+	width: 60vmin;
 	height: 100vh;
 }
